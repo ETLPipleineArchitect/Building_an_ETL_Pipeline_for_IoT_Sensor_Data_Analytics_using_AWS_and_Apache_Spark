@@ -1,0 +1,2 @@
+[{"sensor_id": 1, "timestamp": 1633095600000, "temperature": 25.3, "humidity": 55.2, "pressure": 1.01},
+{"sensor_id": 2, "timestamp": 1633095660000, "temperature": 28.1, "humidity": 40.3, "pressure": 1.03}]
